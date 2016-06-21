@@ -1,0 +1,89 @@
+.bg
+{
+    background-image: url("1.jpg");
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+.search
+{
+    background-color:rgba(100,100,100,0.6);
+    height:100px;
+    margin-top:10px;
+    padding:34px;
+    
+}
+.title
+{
+    color:white;
+margin-top:210px;
+text-shadow: 3px 3px #0000ff ;
+}
+.fixed
+{
+    position: relative;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    
+}
+.pa
+{
+    background-color: rgba(0,0,0,0.6);
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    vertical-align: middle;
+   
+}
+.random
+{
+    color:white; 
+}
+h1{
+    font-size:50px;
+}
+.searching
+{
+    width:100%;
+    height:700px;
+    padding-top:50px;
+}
+li
+{
+    border: 1px solid black;
+    list-style: none;
+    list-style-type: none;
+    display: block;
+    margin-bottom: 10px;
+    padding: 15px 30px 5px 30px;
+    background-color: rgba(0,0,0,0.5);
+    color:white;
+}
+
+     h2 {
+      font-size: 18px;
+      font-weight: bold;
+    }
+    p {
+      font-size: 14px;
+    }
+a{
+    color:white;
+}
+    a:hover
+    {
+        text-decoration: none;
+        color: orange;
+    }
+    li:hover
+    {
+        border-left:5px solid orange;
+        text-decoration: none;
+    }
+    a:visited
+    {
+        color:yellow;
+        text-decoration: none;
+    }
